@@ -7,3 +7,5 @@ print('This is population variance using pvariance: ', statistics.pvariance([1, 
 import statistics
 statistics.pstdev([1, 3, 4, 2, 6, 5, 3, 4, 5, 2])
 print('This is population standard deviation using pstdev: ', statistics.pstdev([1, 3, 4, 2, 6, 5, 3, 4, 5, 2]))
+
+# Loni Wood

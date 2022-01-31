@@ -68,3 +68,4 @@ win = frequency7 + frequency11
 print('Craps:', craps/trials)
 print('Wins:', win/trials)
 
+#Loni Wood

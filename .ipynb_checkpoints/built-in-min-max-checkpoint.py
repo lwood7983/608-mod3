@@ -1,3 +1,5 @@
+# use 12, 37, 36 for maximum numbers when running
+
 def maximum(value1, value2, value3):
     """Return the maximum value of three values."""
     max_value = value1
@@ -17,5 +19,5 @@ print('The min value is', min([15, 9, 27, 14]))
 print('The max value is', max([12, 27, 36]))
 
 
-
+#Loni Wood
     

@@ -27,3 +27,5 @@ tip = purchase.calculateTip(tipPercent)
 print('Tax: ', tax)
 print('Tip: ', tip)
 print('Total: ', purchase.calculateTotal(taxPercent, tipPercent))
+
+#Loni Wood
